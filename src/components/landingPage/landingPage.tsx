@@ -1,6 +1,6 @@
 import React, {FC} from 'react';
 import {LandingPageWrapper} from './landingPage.styled';
-import {Button, Grid} from "@mui/material";
+import {Button, Grid, Icon, IconButton} from "@mui/material";
 import Typography from "@mui/material/Typography";
 
 interface LandingPageProps {
@@ -25,6 +25,11 @@ const LandingPage: FC<LandingPageProps> = () => (
                 </Button>
             </div>
         </Grid>
+        <div style={{ margin: "auto"}}>
+            <IconButton href="#skills">
+                <Icon fontSize="large" color="primary">keyboard_double_arrow_down</Icon>
+            </IconButton>
+        </div>
     </LandingPageWrapper>
 );
 

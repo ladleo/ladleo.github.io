@@ -42,13 +42,13 @@ const skills = [
     }]
 
 const About: FC<AboutProps> = () => (
-    <AboutWrapper data-testid="About">
+    <AboutWrapper data-testid="About" id="skills">
         <Typography variant="h3" p={6} sx={{fontFamily: 'Oxygen'}}>
             Things I am good at.
         </Typography>
         <Grid container spacing={2} px={6}>
             {skills.map((skill) =>
-                <Grid item xs={4} key={skill.title}>
+                <Grid item md={4} key={skill.title}>
                     <Paper elevation={3} sx={{padding: 2}}>
                         <Typography variant="h6" mb={1} sx={{fontFamily: 'Oxygen', fontWeight: 500}}>
                             {skill.title}
