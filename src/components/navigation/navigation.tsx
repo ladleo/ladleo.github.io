@@ -15,6 +15,7 @@ import AdbIcon from '@mui/icons-material/Adb';
 import {NavigationWrapper} from "./navigation.styled";
 import LandingPage from "../landingPage/landingPage";
 import About from "../about/about";
+import Company from "../company/company";
 
 const pages = ['Home', 'About', 'Resume', 'Contact'];
 const settings = ['Profile', 'Account', 'Dashboard', 'Logout'];
@@ -172,6 +173,7 @@ const Navigation: FC<NavigationProps> = () => {
             {/*</AppBar>*/}
             <LandingPage/>
             <About/>
+            <Company/>
         </NavigationWrapper>
     )
 }
