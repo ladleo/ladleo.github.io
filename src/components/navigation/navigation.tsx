@@ -171,7 +171,7 @@ const Navigation: FC<NavigationProps> = () => {
             {/*    </Container>*/}
             {/*</AppBar>*/}
             <LandingPage/>
-            {/*<About/>*/}
+            <About/>
         </NavigationWrapper>
     )
 }

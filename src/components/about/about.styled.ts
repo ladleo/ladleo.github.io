@@ -1,12 +1,9 @@
 import styled from 'styled-components';
 
 export const AboutWrapper = styled.div`
-  overflow: hidden;
-  height: 100vh !important;
   background: linear-gradient(-110deg, #fdcd3b 50%, #ffed4b 50%);
-  //display: grid;
-  //justify-content: space-around;
-  //align-items: center;
-  //text-align: center;
+  font-family: Oxygen,serif;
+  text-align: left;
   width: auto;
+  padding: 3rem;
 `;
