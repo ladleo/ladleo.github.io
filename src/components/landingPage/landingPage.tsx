@@ -1,6 +1,6 @@
 import React, {FC} from 'react';
 import {LandingPageWrapper} from './landingPage.styled';
-import {Grid, Paper, styled} from "@mui/material";
+import {Button, Grid} from "@mui/material";
 import Typography from "@mui/material/Typography";
 
 interface LandingPageProps {
@@ -19,6 +19,10 @@ const LandingPage: FC<LandingPageProps> = () => (
                 <Typography variant="h5" sx={{fontFamily: 'Oxygen'}} mt={1}>
                     I am an Engineer(Software)
                 </Typography>
+                <br/>
+                <Button variant="contained" href="mailto:rwelamila.jr@gmail.com">
+                    CONTACT ME
+                </Button>
             </div>
         </Grid>
     </LandingPageWrapper>
