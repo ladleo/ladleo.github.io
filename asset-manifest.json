@@ -9,12 +9,12 @@
   "static/js/2.9be6cabc.chunk.js.map": "/static/js/2.9be6cabc.chunk.js.map",
   "runtime~main.js": "/static/js/runtime~main.471fb410.js",
   "runtime~main.js.map": "/static/js/runtime~main.471fb410.js.map",
-  "static/media/300.css": "/static/media/oxygen-latin-ext-300-normal.4eaf1e73.woff",
-  "static/media/400.css": "/static/media/oxygen-latin-400-normal.8dc707b4.woff2",
+  "static/media/300.css": "/static/media/oxygen-latin-300-normal.e64dfc1b.woff",
+  "static/media/400.css": "/static/media/oxygen-latin-400-normal.8cf10c25.woff",
   "static/media/700.css": "/static/media/oxygen-latin-700-normal.47050b28.woff",
-  "static/css/main.34ab5080.chunk.css.map": "/static/css/main.34ab5080.chunk.css.map",
   "static/css/2.a5633af5.chunk.css.map": "/static/css/2.a5633af5.chunk.css.map",
+  "static/css/main.34ab5080.chunk.css.map": "/static/css/main.34ab5080.chunk.css.map",
   "index.html": "/index.html",
-  "precache-manifest.f05a84a35efb9b4bf2e9f21f02845423.js": "/precache-manifest.f05a84a35efb9b4bf2e9f21f02845423.js",
+  "precache-manifest.017bdc2db785db66d438fdcf3361f300.js": "/precache-manifest.017bdc2db785db66d438fdcf3361f300.js",
   "service-worker.js": "/service-worker.js"
 }
