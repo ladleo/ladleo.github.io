@@ -3,10 +3,11 @@ import nairobi from './backgrounds/nairobi.png';
 import whiteabstract from './backgrounds/white-abstract.png';
 import worldmap from './backgrounds/world-map.png';
 
-import logo from './logo/logo-black.png';
-import logotext from './logo/logo-text-black.png';
+import logo from './logo/ladleo.png';
+// import logotext from './logo/logo-text-black.png';
 
 import shaq from './personal/shaq.png';
+import profilePic from './personal/profile-pic.png';
 
 import backend from './icons/backend.png';
 import ux from './icons/ux.png';
@@ -42,6 +43,7 @@ import coverhunt from './company/coverhunt.png';
 import dcc from './company/dcc.png';
 import kelhel from './company/kelhel.png';
 import microverse from './company/microverse.png';
+import ramani from './company/ramani.jpeg';
 
 import komikult from './projects/komikult.png';
 import leaderboard from './projects/leaderboard.png';
@@ -51,49 +53,51 @@ import nyeusi from './projects/nyeusi.png';
 import space from './projects/space-hub.png';
 
 export {
-  bwmap,
-  nairobi,
-  whiteabstract,
-  worldmap,
-  logo,
-  logotext,
-  shaq,
-  backend,
-  ux,
-  frontend,
-  prototyping,
-  github,
-  close,
-  download,
-  downloadHover,
-  pineapple,
-  pineappleHover,
-  menu,
-  resume,
-  send,
-  sendHover,
-  css,
-  docker,
-  figma,
-  git,
-  graphql,
-  html,
-  javascript,
-  nodejs,
-  postgresql,
-  rubyrails,
-  reactjs,
-  redux,
-  tailwind,
-  typescript,
-  komikult,
-  leaderboard,
-  math,
-  movie,
-  nyeusi,
-  space,
-  coverhunt,
-  dcc,
-  kelhel,
-  microverse,
+    bwmap,
+    nairobi,
+    whiteabstract,
+    worldmap,
+    logo,
+    // logotext,
+    shaq,
+    profilePic,
+    backend,
+    ux,
+    frontend,
+    prototyping,
+    github,
+    close,
+    download,
+    downloadHover,
+    pineapple,
+    pineappleHover,
+    menu,
+    resume,
+    send,
+    sendHover,
+    css,
+    docker,
+    figma,
+    git,
+    graphql,
+    html,
+    javascript,
+    nodejs,
+    postgresql,
+    rubyrails,
+    reactjs,
+    redux,
+    tailwind,
+    typescript,
+    komikult,
+    leaderboard,
+    math,
+    movie,
+    nyeusi,
+    space,
+    coverhunt,
+    dcc,
+    kelhel,
+    microverse,
+    ramani,
 };

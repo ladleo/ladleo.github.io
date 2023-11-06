@@ -37,12 +37,7 @@ const About = () => {
       <motion.p
         variants={fadeIn('', '', 0.1, 1)}
         className="mt-4 text-taupe text-[18px] max-w-3xl leading-[30px]">
-        Lorem ipsum dolor sit, amet consectetur adipisicing elit. Debitis
-        sapiente ipsum dolorum dicta eaque cumque inventore molestias, beatae ea
-        quaerat alias accusamus voluptas autem! Alias odit voluptates in totam
-        vitae dignissimos minus eaque culpa unde tempore dolore aperiam
-        obcaecati voluptatum aliquam corrupti, suscipit accusamus! Odit unde
-        veniam dolorum ipsum doloribus.
+          As a fullstack engineer, I have developed a deep understanding of both the frontend and backend of web development. Although I have a preference for working on the backend, I find context switching to be an exciting challenge that keeps me engaged and constantly learning. With a versatile skillset and a willingness to adapt, I am not limited to any particular framework, language, or technology. Instead, I approach each project with a flexible and open mindset, always looking for the best solution to meet the unique needs of the task at hand. Whether it's building a RESTful API with Node.js or creating an intuitive user interface with React, I am always eager to take on new challenges and push the boundaries of what is possible in the software engineering space.
       </motion.p>
 
       <div className="mt-20 flex flex-wrap gap-10">
